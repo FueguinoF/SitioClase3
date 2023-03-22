@@ -1,0 +1,18 @@
+header {
+    background-color: aqua;
+    height: 80px;
+    width: auto;
+}
+body {
+    background-color: chartreuse;
+}
+main{
+    background-color: blue;
+    height: 300px;
+    width: auto;
+}
+footer {
+    background-color: aquamarine;
+    height: 80px;
+    width: auto;
+}
